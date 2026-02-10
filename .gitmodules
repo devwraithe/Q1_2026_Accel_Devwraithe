@@ -2,8 +2,11 @@
 	path = whitelist-transfer-hook
 	url = https://github.com/devwraithe/whitelist-transfer-hook.git
 	branch = main
-	
 [submodule "escrow-litesvm"]
 	path = escrow-litesvm
 	url = https://github.com/devwraithe/escrow-litesvm.git
+	branch = main
+[submodule "transfer-hook-vault"]
+	path = transfer-hook-vault
+	url = https://github.com/devwraithe/transfer-hook-vault.git
 	branch = main
