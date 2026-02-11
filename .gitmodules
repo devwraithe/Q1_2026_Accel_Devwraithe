@@ -10,3 +10,7 @@
 	path = transfer-hook-vault
 	url = https://github.com/devwraithe/transfer-hook-vault.git
 	branch = main
+[submodule "magicblock-er-accel"]
+	path = magicblock-er-accel
+	url = https://github.com/devwraithe/magicblock-er-accel
+	branch = main
