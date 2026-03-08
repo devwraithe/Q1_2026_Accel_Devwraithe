@@ -18,11 +18,11 @@
 	path = escrow-tuktuk
 	url = https://github.com/devwraithe/escrow-tuktuk.git
 	branch = master
-[submodule "week-3/genstore"]
-	path = week-3/genstore
-	url = https://github.com/devwraithe/genstore.git
-	branch = master
 [submodule "solana-gpt-tuktuk"]
 	path = solana-gpt-tuktuk
 	url = https://github.com/devwraithe/solana-gpt-tuktuk
+	branch = master
+[submodule "genstore"]
+	path = genstore
+	url = https://github.com/devwraithe/genstore.git
 	branch = master
