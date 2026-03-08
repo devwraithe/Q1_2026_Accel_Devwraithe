@@ -22,3 +22,7 @@
 	path = week-3/genstore
 	url = https://github.com/devwraithe/genstore.git
 	branch = master
+[submodule "solana-gpt-tuktuk"]
+	path = solana-gpt-tuktuk
+	url = https://github.com/devwraithe/solana-gpt-tuktuk
+	branch = master
