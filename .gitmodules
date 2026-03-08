@@ -34,3 +34,7 @@
 	path = pinocchio-escrow
 	url = https://github.com/devwraithe/accel-pinocchio-escrow
 	branch = main
+[submodule "pinocchio-fundraiser"]
+	path = pinocchio-fundraiser
+	url = https://github.com/devwraithe/pinocchio-fundraiser
+	branch = master
